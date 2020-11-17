@@ -36,6 +36,7 @@ ul {
 }
 .address-header a {
     text-decoration: none;
+    font-style: normal;
     color: var(--main-text-color);
     font-weight: 500;
     font-size: 14px;
@@ -123,6 +124,7 @@ ul {
 .footer-address p {
     color: #FFFFFF;
     text-decoration: none;
+    font-style: normal;
     background-color: #2F303A;
     font-weight: 400;
     font-size: 14px;
@@ -133,6 +135,7 @@ ul {
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
     background-color: #2F303A;
+    font-style: normal;
     font-weight: 400;
     font-size: 14px;
     line-height:1.71;
